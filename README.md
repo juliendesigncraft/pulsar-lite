@@ -1,3 +1,5 @@
+> **This repo has moved.** Everything about Pulsar now lives in one place: **[juliendesigncraft/pulsar](https://github.com/juliendesigncraft/pulsar)**. Lite is in [`prompts/lite`](https://github.com/juliendesigncraft/pulsar/tree/main/prompts/lite), and the full app is in the same repo. This repo is archived and won't be updated.
+
 # Pulsar Lite
 
 Pulsar is the app that lives in my Mac's menu bar. Pulsar Lite is the free part of it: a clean menu bar, your desktop in a menu, a sound for every key, and the small system switches in one place.
